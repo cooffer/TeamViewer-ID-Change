@@ -1,2 +1,5 @@
-# TeamViewer-ID-Change
-TeamViewer ID Change tools
+# 简介
+为什么会有这个工具的诞生，大家都懂的，我就不多说了
+本工具采用修改网卡MAC地址的方式来实现TxxxVxxxr ID 的修改，
+并且修改MAC地址后会自动重启网卡设备和TxxxVxxxr，不需要重启电脑。
+TV重启后ID会自动修改成另一个，这样我们的目的就达到了。
